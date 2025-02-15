@@ -1,4 +1,13 @@
-# pyth_basic
-# Folder for all basic py commands
+# Python Basic FAQ
 
-## Test 
+
+# Syntax
+
+# Strings
+
+# Operations
+
+# Test Runs
+
+
+
